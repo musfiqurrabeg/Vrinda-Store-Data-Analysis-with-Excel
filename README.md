@@ -1,6 +1,7 @@
 # 📊 Vrinda Store Data Analysis - Unlock Business Insights 🚀 
 
-![Uploading C3BCD43D-388C-4199-B34A-280EE5C9261C.jpeg…]()
+![C3BCD43D-388C-4199-B34A-280EE5C9261C](https://github.com/user-attachments/assets/0a39b3bd-d6d8-4629-a976-736a822a0be8)
+
 
 Welcome to the **Vrinda Store Data Analysis** project! This Excel file transforms raw data into **actionable insights** using data cleaning, correction, validation, and an interactive dashboard.
 
