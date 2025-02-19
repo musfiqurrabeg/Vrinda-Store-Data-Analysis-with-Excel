@@ -7,8 +7,7 @@ Welcome to the **Vrinda Store Data Analysis** project! This Excel file transform
 
 ## 📌 Project Overview  
 This project is designed to help businesses **make data-driven decisions** by leveraging:  
-✅ **Data Cleaning & Correction** (Error handling, standardization, duplicate removal)  
-✅ **Data Validation** (Ensuring accuracy & consistency)  
+✅ **Data Cleaning & Correction** (Error handling, standardization, duplicate removal) 
 ✅ **Sales & Customer Analysis** (Tracking trends & behavior)  
 ✅ **Inventory Optimization** (Identifying stock imbalances)  
 ✅ **Interactive Dashboard** (Dynamic, easy-to-read reports)  
@@ -35,8 +34,7 @@ This project is designed to help businesses **make data-driven decisions** by le
 ## 🚀 How to Use  
 1️⃣ Open the **Excel file** in Microsoft Excel or Google Sheets.  
 2️⃣ Navigate to the **"Dashboard"** sheet for an interactive overview.  
-3️⃣ Explore **"Cleaned Data"** for structured, corrected information.  
-4️⃣ Use **Pivot Tables & Filters** for custom insights.  
+3️⃣ Use **Pivot Tables & Filters** for custom insights.  
 
 💡 **Pro Tip:** Adjust slicers & dropdowns in the dashboard for real-time filtering!  
 
